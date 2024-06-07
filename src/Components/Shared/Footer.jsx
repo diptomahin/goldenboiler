@@ -1,0 +1,28 @@
+
+const Footer = () => {
+    return (
+        <footer className="footer p-10 bg-black text-white ">
+            <aside>
+                <img className="w-28" src="https://i.ibb.co/PWMcZtH/Logo.png"/>
+                <p><span className="text-2xl font-semibold">Golden Boiler Manufacturing Co.Ltd.</span><br />The Leading Authority OF Industrial Boiler In Bangladesh</p>
+            </aside>
+            <nav>
+                <h6 className="footer-title">Head Office</h6>
+                <a className="link link-hover">137/10, Mazar Road, Second Colony</a>
+                <a className="link link-hover">Mirpur-1, Dhaka-1216, Bangladesh</a>
+                <a className="link link-hover">+88 01715-153905</a>
+                <a className="link link-hover">+88 01965-511351</a>
+                <a className="link link-hover">info@goldenboiler.com.bd</a>
+            </nav>
+            <nav>
+                <h6 className="footer-title">Service Point</h6>
+                <a className="link link-hover">97/3-4, North Bishil, Beribadh Road</a>
+                <a className="link link-hover">Mirpur-1, Dhaka-1216, Bangladesh</a>
+                <a className="link link-hover">+88 01965-511355</a>
+                <a className="link link-hover">+88 01955-599600</a>
+            </nav>
+        </footer>
+    );
+};
+
+export default Footer;

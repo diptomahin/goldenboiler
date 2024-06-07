@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Standerd Automatic Electric Steam Steam Boiler",
+        "image": "https://i.ibb.co/KVzT10V/Golden-Standerd-Automatic-Electric-Steam-Steam-Boiler-removebg-preview.png",
+        "type": "Electric",
+        "capacity": "Capacity_1"
+    },
+    {
+        "id": 2,
+        "name": "Golden Standerd External Furnace Wastage (Jhut) Fired Steam Boiler",
+        "image": "https://i.ibb.co/Ldtj9vn/Golden-Standerd-External-Furnace-Wastage-Jhut-Fired-Steam-Boiler-removebg-preview.png",
+        "type": "Furnace Wastage",
+        "capacity": "Capacity_2"
+    },
+    {
+        "id": 3,
+        "name": "Golden Standerd Horizontal Exhaust Gas Boiler",
+        "image": "https://i.ibb.co/WPx6dyQ/Golden-Standerd-Horizontal-Exhaust-Gas-Boiler-removebg-preview.png",
+        "type": "Exhaust Gas",
+        "capacity": "Capacity_3"
+    },
+    {
+        "id": 4,
+        "name": "Golden Standerd Horizontal Gas Or Oil Fired Thermal Oil Boiler",
+        "image": "https://i.ibb.co/5czps0C/Golden-Standerd-Horizontal-Gas-Or-Oil-Fired-Thermal-Oil-Boiler-removebg-preview.png",
+        "type": "Gas or Oil Fired",
+        "capacity": "Capacity_4"
+    },
+    {
+        "id": 5,
+        "name": "Golden Standerd Horizontal Husk Fried Steam Boiler",
+        "image": "https://i.ibb.co/0ZkwL77/Golden-Standerd-Horizontal-Husk-Fried-Steam-Boiler-removebg-preview.png",
+        "type": "Husk Fired",
+        "capacity": "Capacity_5"
+    },
+    {
+        "id": 6,
+        "name": "Golden Standerd Horizontal Three Pass Gas or Oil Fired Steam Boiler",
+        "image": "https://i.ibb.co/0j6g03t/Golden-Standerd-Horizontal-Three-Pass-Gas-or-Oil-Fired-Steam-Boiler-removebg-preview.png",
+        "type": "Three Pass Gas or Oil Fired",
+        "capacity": "Capacity_6"
+    },
+    {
+        "id": 7,
+        "name": "Golden Standerd Internal Furnace Wastage (Jhut) Fired Steam Boiler",
+        "image": "https://i.ibb.co/QDkpNmp/Golden-Standerd-Internal-Furnace-Wastage-Jhut-Fired-Steam-Boiler-removebg-preview.png        ",
+        "type": "Internal Furnace Wastage",
+        "capacity": "Capacity_7"
+    },
+    {
+        "id": 8,
+        "name": "Golden Standerd Vertical Two Pass Gas or Oil Fired Steam Boiler",
+        "image": "https://i.ibb.co/3zBCQcB/Golden-Standerd-Vertical-Two-Pass-Gas-or-Oil-Fired-Steam-Boiler-removebg-preview.png",
+        "type": "Two Pass Gas or Oil Fired",
+        "capacity": "Capacity_8"
+    },
+    {
+        "id": 9,
+        "name": "Water Softener",
+        "image": "https://i.ibb.co/NtKDM8n/Water-Softener-removebg-preview.png",
+        "type": "Water Treatment",
+        "capacity": "Capacity_9"
+    }
+
+]
