@@ -14,8 +14,8 @@ const AllProducts = () => {
     return (
         <div className="pt-24">
            <HomeTitle title={'All Products'}></HomeTitle> 
-           <div className=" w-11/12 mx-auto py-3">
-           <div className=" grid grid-cols-2 md:grid-cols-3 gap-3 w-11/12 mx-auto  "> 
+           <div className=" w-11/12 mx-auto py-3 border-2 rounded-lg border-red-700">
+           <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 p-5  "> 
            {
             products.map(product=> <ProductCard key={product.id} product={product}></ProductCard>)
            }

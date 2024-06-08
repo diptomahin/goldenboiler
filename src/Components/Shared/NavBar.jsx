@@ -73,7 +73,7 @@ const NavBar = () => {
             </ul>
         </>
     return (
-        <div className="navbar bg-base-100 bg-opacity-30  mx-auto  fixed z-10">
+        <div className="navbar bg-inherit bg-opacity-30  mx-auto  fixed z-10">
             <div className="navbar-start ml-5">
                 <div className="dropdown mr-3">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

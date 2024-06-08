@@ -24,7 +24,7 @@ const ContactUs = () => {
                   </div>
                 </div>
                 <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-                    <form className="card-body">
+                    <form className="card-body border-2 rounded-lg border-red-700">
                         <h1 className="text-3xl font-bold text-center">Get In Touch</h1>
                         <div className="form-control">
                             <label className="label">

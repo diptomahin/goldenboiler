@@ -1,9 +1,9 @@
 
 const ProductCard = ({product}) => {
 
-    const {id, name, image} = product ;
+    const { name, image} = product ;
     return (
-        <div className="card flex flex-col   bg-base-100 shadow-xl">
+        <div className="card flex flex-col   bg-base-100 shadow-xl ">
        <div>
        <figure className=" p-3"><img className="h-36 hover:h-44" src={image} alt="products" /></figure>
        </div>

@@ -17,7 +17,7 @@ const HomeProducts = () => {
         <div className="py-11">
            <HomeTitle title={'Our Products'}></HomeTitle> 
            <div className="border-red-700 border-x-2 border-y-2 rounded-lg w-11/12 mx-auto py-3">
-           <div className=" grid grid-cols-2 md:grid-cols-3 gap-3 w-11/12 mx-auto  "> 
+           <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 w-11/12 mx-auto  "> 
            {
             products.slice(0,6).map(product=> <ProductCard key={product.id} product={product}></ProductCard>)
            }

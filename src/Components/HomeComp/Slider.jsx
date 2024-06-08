@@ -1,26 +1,32 @@
 
 const Slider = () => {
+    const  images= [
+        "https://i.ibb.co/rxFdkVH/Golden-Standard-Vertical-Two-Pass-Gas-or-Oil-Fired-Steam-Boiler.png",
+        "https://i.ibb.co/6yLbZLb/Golden-Standard-Horizontal-Three-Pass-Gas-or-Oil-Fired-Steam-Boiler.png",
+        "https://i.ibb.co/YbGGTQY/Golden-Standerd-Internal-Furnace-Wastage-Jhut-Fired-Steam-Boiler.png",
+        "https://i.ibb.co/m6q0p3B/Our-Products.png",
+      ]
     return (
-        <div className="">
+        <div className="pt-20">
             <div className="carousel w-full  ">
                 <div id="item1" className="carousel-item w-full">
-                    <img src="https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.jpg" className="w-full" />
+                    <img src={images[0]} className="w-full" />
                 </div>
                 <div id="item2" className="carousel-item w-full">
-                    <img src="https://img.daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.jpg" className="w-full" />
+                    <img src={images[1]} className="w-full" />
                 </div>
                 <div id="item3" className="carousel-item w-full">
-                    <img src="https://img.daisyui.com/images/stock/photo-1414694762283-acccc27bca85.jpg" className="w-full" />
+                    <img src={images[2]} className="w-full" />
                 </div>
                 <div id="item4" className="carousel-item w-full">
-                    <img src="https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.jpg" className="w-full" />
+                    <img src={images[3]} className="w-full" />
                 </div>
             </div>
             <div className="flex justify-center w-full py-2 gap-2">
-                <a href="#item1" className="btn btn-xs">1</a>
-                <a href="#item2" className="btn btn-xs">2</a>
-                <a href="#item3" className="btn btn-xs">3</a>
-                <a href="#item4" className="btn btn-xs">4</a>
+                <a href="#item1" className="btn btn-xs"> <img src={images[0]} className="w-20" /></a>
+                <a href="#item2" className="btn btn-xs"><img src={images[1]} className="w-20" /></a>
+                <a href="#item3" className="btn btn-xs"><img src={images[2]} className="w-20" /></a>
+                <a href="#item4" className="btn btn-xs"><img src={images[3]} className="w-20" /></a>
             </div>
         </div>
     );
