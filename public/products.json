@@ -13,7 +13,8 @@
             "Low water auto shutdown.",
             "High thermal efficiency.",
             "Long working life"
-        ]
+        ],
+        "img":"https://i.ibb.co/N70Nsq6/image-1.png"
     },
     {
         "id": 2,
@@ -33,7 +34,8 @@
             "Fully automatic Control panel board.",
             "100% imported Boiler grade steel (ASTM-SA-516, GR-70)",
             "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh."
-        ]
+        ],
+        "img":"https://i.ibb.co/KGnjzwZ/image-2.png"
     },
     {
         "id": 3,
@@ -50,7 +52,8 @@
             "Automatic Feeding of Husk.",
             "Dual Safety System.",
             "Special type steam separator provided for Best quality steam. 100% Imported Boiler Grade Steel (ASTM-SA-516, GR-70)."
-        ]
+        ],
+        "img":"https://i.ibb.co/0XyTJsp/image-3.png"
     },
     {
         "id": 4,
@@ -67,7 +70,8 @@
             "Automatic Gas/Oil Fired.",
             "Dual Safety System.",
             "100% Imported Boiler Grade Seamless Tube."
-        ]
+        ],
+        "img":"https://i.ibb.co/x8mFghv/image-4.png"
     },
     {
         "id": 5,
@@ -85,7 +89,8 @@
             "Double Safety System.",
             "Special type steam separator provided for Best quality steam.",
             "100% Imported Boiler Grade Steel (ASTM-SA-516, GR-70)."
-        ]
+        ],
+        "img":" https://i.ibb.co/CvQ1TvN/image-5.png"
     },
     {
         "id": 6,
@@ -100,7 +105,8 @@
             "Fully automatic Control panel board",
             "100% imported boiler grade steel (ASTM-SA-516, GR-70)",
             "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh"
-        ]
+        ],
+        "img":"https://i.ibb.co/xmGjcqh/image-6.png"
     },
     {
         "id": 7,
@@ -120,7 +126,8 @@
             "Fully automatic Control panel board.",
             "100% imported Boiler grade steel (ASTM-SA-516, GR-70)",
             "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh."
-        ]
+        ],
+        "img":" https://i.ibb.co/4Zjy5FN/image-7.png"
     },
     {
         "id": 8,
@@ -137,7 +144,8 @@
             "Fully automatic Control panel board",
             "100% imported boiler grade steel (ASTM-SA-516, GR-70)",
             "Environment Friendly (Low Nox emission)"
-        ]
+        ],
+        "img":"https://i.ibb.co/R2X6wDg/image-8.png"
     },
     {
         "id": 9,
@@ -151,6 +159,7 @@
             "Easy to Installation and Maintenance.",
             "Back Wash System.",
             "Commercial Zero Hardness."
-        ]
+        ],
+        "img":"https://i.ibb.co/BcLhjRc/image-9.png"
     }
 ]
