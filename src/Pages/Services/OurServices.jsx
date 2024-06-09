@@ -35,7 +35,10 @@ const OurServices = () => {
             {
               services.map(service =>
                 <div key={service.id} className="card  bg-base-100 shadow-xl border-2 rounded-lg border-red-700">
-                  <div className="card-body">
+                  <div className="card-body"
+                    data-aos="flip-left"
+                    data-aos-easing="ease-out-cubic"
+                    data-aos-duration="2000">
                     <div className="flex gap-5 items-center">
                       <h2 className=""><GrServices className="text-3xl text-red-700" /></h2>
                       <h2 className="card-title">{service.name}</h2>
@@ -44,7 +47,7 @@ const OurServices = () => {
                     <p>{service.description}</p>
                     <div className="card-actions justify-end">
                       <Link to={`/contact`}>
-                      <button className="btn  bg-red-700 text-white hover:bg-white hover:text-red-700">Send inquiry</button>
+                        <button className="btn  bg-red-700 text-white hover:bg-white hover:text-red-700">Send inquiry</button>
                       </Link>
                     </div>
                   </div>

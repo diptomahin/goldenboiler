@@ -7,10 +7,10 @@ const HomeContact = () => {
             <div className="hero py-10 w-11/12 mx-auto">
 
                 <div className="hero-content flex-col gap-7 lg:flex-row-reverse">
-                    <div className="text-left ">
+                    <div className="text-left " data-aos="zoom-in-down">
                         <img className="" src={`https://i.ibb.co/Yc2MQ0F/home-contact-image.png`} alt="" />
                     </div>
-                    <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+                    <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100"  data-aos="zoom-in">
                         <form className="card-body border-2 rounded-lg border-red-700">
                             <div className="form-control">
                                 <label className="label">

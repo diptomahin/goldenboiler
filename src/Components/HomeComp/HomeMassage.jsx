@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 const HomeMassage = () => {
     return (
-        <div className="hero ">
-        <div className="hero-content  flex flex-col lg:flex-row gap-3 w-10/12 mx-auto">
+        <div className="hero " >
+        <div className="hero-content  flex flex-col lg:flex-row gap-3 w-10/12 mx-auto" data-aos="fade-up">
             <img className="border-x-2 border-y-2 rounded-full" src="https://i.ibb.co/Nrp1M5S/ceo-removebg-preview.png" />
             <div>
                 <h1 className="text-5xl font-bold">MESSAGE FROM MANAGING DIRECTOR</h1>

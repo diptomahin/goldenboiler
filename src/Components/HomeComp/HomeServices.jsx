@@ -25,13 +25,16 @@ const HomeServices = () => {
         }
     ]
     return (
-        <div className="py-10 mb-10"> 
+        <div className="py-10 mb-10">
             <HomeTitle title="Our Services"></HomeTitle>
             <div className="w-10/12 mx-auto  grid grid-cols-1 md:grid-cols-2 gap-5 text-start">
                 {
                     services.map(service =>
                         <div key={service.id} className="card  bg-base-100 shadow-xl border-2 rounded-lg border-red-700">
-                            <div className="card-body">
+                            <div className="card-body"
+                                data-aos="flip-left"
+                                data-aos-easing="ease-out-cubic"
+                                data-aos-duration="2000">
                                 <div className="flex gap-5 items-center">
                                     <h2 className=""><GrServices className="text-3xl text-red-700" /></h2>
                                     <h2 className="card-title">{service.name}</h2>

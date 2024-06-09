@@ -12,7 +12,7 @@ const ClientMarquee = () => {
     }, []);
 
     return (
-        <div className="my-10 py-11">
+        <div className="my-10 py-11"  data-aos="flip-left">
             <HomeTitle title={'Our Clients'}></HomeTitle>
             <Marquee className="py-5">
                 {

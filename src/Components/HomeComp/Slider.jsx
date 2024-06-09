@@ -7,7 +7,7 @@ const Slider = () => {
         "https://i.ibb.co/m6q0p3B/Our-Products.png",
       ]
     return (
-        <div className="pt-20">
+        <div className="pt-20 " >
             <div className="carousel w-full  ">
                 <div id="item1" className="carousel-item w-full">
                     <img src={images[0]} className="w-full" />
