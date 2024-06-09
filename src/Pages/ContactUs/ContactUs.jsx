@@ -1,7 +1,7 @@
 import { FaLocationDot } from "react-icons/fa6";
 const ContactUs = () => {
     return (
-        <div className="hero min-h-screen py-10">
+        <div className="hero min-h-screen py-20">
             <div className="hero-content flex-col gap-7 lg:flex-row-reverse">
                 <div className="text-left " data-aos="zoom-in-up">
                     <h1 className="text-5xl font-bold">Contact Information</h1>
