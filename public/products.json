@@ -3,64 +3,154 @@
         "id": 1,
         "name": "Golden Standerd Automatic Electric Steam Steam Boiler",
         "image": "https://i.ibb.co/KVzT10V/Golden-Standerd-Automatic-Electric-Steam-Steam-Boiler-removebg-preview.png",
-        "type": "Electric",
-        "capacity": "Capacity_1"
+        "type": "Vertical (Electrode Coil)",
+        "capacity": "40 kg/hr to 100 kg/hr",
+        "additional": [
+            "Fully Auto Electric Boiler.",
+            "Double safety system.",
+            "Easy to installation and maintenance.",
+            "Dry steam.",
+            "Low water auto shutdown.",
+            "High thermal efficiency.",
+            "Long working life"
+        ]
     },
     {
         "id": 2,
         "name": "Golden Standerd External Furnace Wastage (Jhut) Fired Steam Boiler",
         "image": "https://i.ibb.co/Ldtj9vn/Golden-Standerd-External-Furnace-Wastage-Jhut-Fired-Steam-Boiler-removebg-preview.png",
-        "type": "Furnace Wastage",
-        "capacity": "Capacity_2"
+        "type": "Horizontal External Furnace",
+        "capacity": "1000 kg/hr to 5000 kg/hr",
+        "additional": [
+            "Wastage, Scraps Fired Boiler",
+            "Smoke free",
+            "Large furnace is convenient for manual operation",
+            "Less dust discharge",
+            "Rapid Warming and High Heat Efficiency up to 84%",
+            "Environment friendly",
+            "Safety, Reliability and Low operating cost.",
+            "Easy to installation and maintenance",
+            "Fully automatic Control panel board.",
+            "100% imported Boiler grade steel (ASTM-SA-516, GR-70)",
+            "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh."
+        ]
     },
     {
         "id": 3,
         "name": "Golden Standerd Horizontal Exhaust Gas Boiler",
         "image": "https://i.ibb.co/WPx6dyQ/Golden-Standerd-Horizontal-Exhaust-Gas-Boiler-removebg-preview.png",
-        "type": "Exhaust Gas",
-        "capacity": "Capacity_3"
+        "type": " 1000 kg/hr. to 3000 kg/hr",
+        "capacity": "Exhaust Gas Fired Steam Boiler",
+        "additional": [
+            "Exhaust Gas Boiler (EGB)",
+            "Environment friendly.",
+            "Safety, Reliability and Low operating cost.",
+            "Easy to installation and maintenance.",
+            "Rapid Warming and High Heat Efficiency up to 90%.",
+            "Automatic Feeding of Husk.",
+            "Dual Safety System.",
+            "Special type steam separator provided for Best quality steam. 100% Imported Boiler Grade Steel (ASTM-SA-516, GR-70)."
+        ]
     },
     {
         "id": 4,
         "name": "Golden Standerd Horizontal Gas Or Oil Fired Thermal Oil Boiler",
         "image": "https://i.ibb.co/5czps0C/Golden-Standerd-Horizontal-Gas-Or-Oil-Fired-Thermal-Oil-Boiler-removebg-preview.png",
-        "type": "Gas or Oil Fired",
-        "capacity": "Capacity_4"
+        "type": "Thermal Oil Boiler",
+        "capacity": " 350 KW to 2800 KW Type",
+        "additional": [
+            "Thermal Oil Boiler.",
+            "Environment friendly",
+            "Safety, Reliability and Low operating cost.",
+            "Easy to installation and maintenance.",
+            "Rapid Warming and High Efficiency up to 85%.",
+            "Automatic Gas/Oil Fired.",
+            "Dual Safety System.",
+            "100% Imported Boiler Grade Seamless Tube."
+        ]
     },
     {
         "id": 5,
         "name": "Golden Standerd Horizontal Husk Fried Steam Boiler",
         "image": "https://i.ibb.co/0ZkwL77/Golden-Standerd-Horizontal-Husk-Fried-Steam-Boiler-removebg-preview.png",
-        "type": "Husk Fired",
-        "capacity": "Capacity_5"
+        "type": "Horizontal Fired Tube",
+        "capacity": "2000 kg/hr. to 6000 kg/hr.",
+        "additional": [
+            "Rice Husk Fired steam Boiler.",
+            "Environment Friendly.",
+            "Safety, Reliability and Low Operation Cost.",
+            "Easy to Installation and Maintenance.",
+            "Rapid Warming and High Heat Efficiency up to 90%",
+            "Automatic Feeding of Husk.",
+            "Double Safety System.",
+            "Special type steam separator provided for Best quality steam.",
+            "100% Imported Boiler Grade Steel (ASTM-SA-516, GR-70)."
+        ]
     },
     {
         "id": 6,
         "name": "Golden Standerd Horizontal Three Pass Gas or Oil Fired Steam Boiler",
         "image": "https://i.ibb.co/0j6g03t/Golden-Standerd-Horizontal-Three-Pass-Gas-or-Oil-Fired-Steam-Boiler-removebg-preview.png",
-        "type": "Three Pass Gas or Oil Fired",
-        "capacity": "Capacity_6"
+        "type": "Horizontal Fired Tube",
+        "capacity": "500 kg/hr to 6000 kg/hr Type",
+        "additional": [
+            "Government authorised boiler",
+            "High Efficiency up to 90%”,” Safety, Reliability and Low Operating cost",
+            "Easy to installation and maintenance",
+            "Fully automatic Control panel board",
+            "100% imported boiler grade steel (ASTM-SA-516, GR-70)",
+            "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh"
+        ]
     },
     {
         "id": 7,
         "name": "Golden Standerd Internal Furnace Wastage (Jhut) Fired Steam Boiler",
         "image": "https://i.ibb.co/QDkpNmp/Golden-Standerd-Internal-Furnace-Wastage-Jhut-Fired-Steam-Boiler-removebg-preview.png        ",
-        "type": "Internal Furnace Wastage",
-        "capacity": "Capacity_7"
+        "type": "Vertical Internal Furnace",
+        "capacity": "500 kg/hr to 1000 kg/hr",
+        "additional": [
+            "Wastage, Scraps Fired Boiler",
+            "Smoke free",
+            "Large furnace is convenient for manual operation",
+            "Less dust discharge",
+            "Rapid Warming and High Heat Efficiency up to 84%",
+            "Environment friendly",
+            "Safety, Reliability and Low operating cost.",
+            "Easy to installation and maintenance",
+            "Fully automatic Control panel board.",
+            "100% imported Boiler grade steel (ASTM-SA-516, GR-70)",
+            "We are the first Manufacturer to producing big wastage, Scraps Gas, Oil, Coal Fired Steam Boiler in Bangladesh."
+        ]
     },
     {
         "id": 8,
         "name": "Golden Standerd Vertical Two Pass Gas or Oil Fired Steam Boiler",
         "image": "https://i.ibb.co/3zBCQcB/Golden-Standerd-Vertical-Two-Pass-Gas-or-Oil-Fired-Steam-Boiler-removebg-preview.png",
-        "type": "Two Pass Gas or Oil Fired",
-        "capacity": "Capacity_8"
+        "type": "Vertical Tubeless TH",
+        "capacity": "60 kg/hr to 1000kg/hr Type",
+        "additional": [
+            "Government authorised boiler",
+            "Stainless Steel Sheet body",
+            "High Efficiency up to 90%",
+            "Safety, Reliability and Low Operating costz",
+            "Easy to installation and maintenance",
+            "Fully automatic Control panel board",
+            "100% imported boiler grade steel (ASTM-SA-516, GR-70)",
+            "Environment Friendly (Low Nox emission)"
+        ]
     },
     {
         "id": 9,
         "name": "Water Softener",
         "image": "https://i.ibb.co/NtKDM8n/Water-Softener-removebg-preview.png",
-        "type": "Water Treatment",
-        "capacity": "Capacity_9"
+        "type": "Automatic & Manual",
+        "capacity": " 60 ltr/hr. to 6000 Itr/hr.",
+        "additional": [
+            "Fiber Body.",
+            "Automatic & Manual Operation.",
+            "Easy to Installation and Maintenance.",
+            "Back Wash System.",
+            "Commercial Zero Hardness."
+        ]
     }
-
 ]

@@ -9,6 +9,7 @@ import ContactUs from './../Pages/ContactUs/ContactUs';
 import AboutGoldenBoiler from './../Pages/AboutUs/AboutGoldenBoiler';
 import Massage from './../Pages/AboutUs/Massage';
 import Gallery from './../Pages/AboutUs/Gallery';
+import ProductDetails from "../Pages/Product/ProductDetails";
 
 
 
@@ -24,6 +25,11 @@ const router = createBrowserRouter([
       {
         path: "/products",
         element: <AllProducts></AllProducts>,
+      },
+      {
+        path: "/products/:id",
+        element: <ProductDetails></ProductDetails>,
+        loader :()=> fetch('/products.json')
       },
       {
         path: "/services",
