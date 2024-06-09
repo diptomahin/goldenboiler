@@ -10,6 +10,7 @@ import AboutGoldenBoiler from './../Pages/AboutUs/AboutGoldenBoiler';
 import Massage from './../Pages/AboutUs/Massage';
 import Gallery from './../Pages/AboutUs/Gallery';
 import ProductDetails from "../Pages/Product/ProductDetails";
+import ErrorPage from "../Components/ErrorPage";
 
 
 
@@ -17,6 +18,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement:<ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
