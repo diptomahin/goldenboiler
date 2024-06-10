@@ -4,7 +4,7 @@ const Footer = () => {
         <div className=" p-10 bg-black text-white ">
             <footer className="footer">
                 <aside>
-                    <img className="w-28" src="https://i.ibb.co/PWMcZtH/Logo.png" />
+                    <img className="w-32" src="https://i.ibb.co/NK9hmLC/logo-removebg-preview.png" />
                     <p><span className="text-2xl font-semibold">Golden Boiler Manufacturing Co.Ltd.</span><br />The Leading Authority OF Industrial Boiler In Bangladesh</p>
                 </aside>
                 <nav>

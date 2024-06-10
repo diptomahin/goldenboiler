@@ -87,7 +87,7 @@ const NavBar = () => {
                     </ul>
                 </div>
 
-                <Link to="/"><img className="w-28" src={`https://i.ibb.co/PWMcZtH/Logo.png`} /></Link>
+                <Link to="/"><img className="w-32" src={`https://i.ibb.co/NK9hmLC/logo-removebg-preview.png`} /></Link>
             </div>
             <div className="navbar-end hidden lg:flex">
                 {
