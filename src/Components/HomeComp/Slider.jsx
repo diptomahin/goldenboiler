@@ -22,7 +22,7 @@ const Slider = () => {
                     <img src={images[3]} className="w-full" />
                 </div>
             </div>
-            <div className="flex justify-center w-full py-2 gap-2">
+            <div className="flex justify-center w-3/5 mx-auto py-2 gap-2">
                 <a href="#item1" className="btn btn-xs"> <img src={images[0]} className="w-20" /></a>
                 <a href="#item2" className="btn btn-xs"><img src={images[1]} className="w-20" /></a>
                 <a href="#item3" className="btn btn-xs"><img src={images[2]} className="w-20" /></a>

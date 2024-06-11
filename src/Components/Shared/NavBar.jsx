@@ -66,6 +66,14 @@ const NavBar = () => {
                                     };
                                 }} to="/gallery"
                                 >Gallery</NavLink></li>
+                                <li><NavLink className="py-2 font-bold" style={({ isActive }) => {
+                                    return {
+                                        color: isActive ? "red" : "black",
+                                        backgroundColor: isActive ? "inherit" : "inherit",
+                                        textDecoration: isActive ? 'underline' : "none"
+                                    };
+                                }} to="/certification"
+                                >Certification</NavLink></li>
                             </ul>
                         </details>
                     </li>

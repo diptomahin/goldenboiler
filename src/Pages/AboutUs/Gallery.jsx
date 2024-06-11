@@ -41,7 +41,7 @@ const Gallery = () => {
                 data-aos-easing="ease-out-cubic"
                 data-aos-duration="2000"
                  className="card  bg-base-100 shadow-xl">
-                <figure><img src={galleryImage.url} alt="Shoes" /></figure>
+                <figure><img src={galleryImage.url} alt="Images" /></figure>
                 <div className="card-body">
                     <h2 className="card-title">
                         {galleryImage.name}

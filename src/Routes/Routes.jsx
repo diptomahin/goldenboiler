@@ -11,6 +11,7 @@ import Massage from './../Pages/AboutUs/Massage';
 import Gallery from './../Pages/AboutUs/Gallery';
 import ProductDetails from "../Pages/Product/ProductDetails";
 import ErrorPage from "../Components/ErrorPage";
+import Certification from './../Pages/AboutUs/Certification';
 
 
 
@@ -52,6 +53,10 @@ const router = createBrowserRouter([
       {
         path: "/gallery",
         element: <Gallery></Gallery>,
+      },
+      {
+        path: "/certification",
+        element: <Certification></Certification>,
       }
     ]
   },
